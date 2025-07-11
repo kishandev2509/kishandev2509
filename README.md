@@ -13,25 +13,34 @@
 
 ## 📂 Featured Projects
 
-### 1. 🎮 [Tic Tac Toe (React)](https://github.com/kishandev2509/tic_tac_toe)
+### 1. 🌾 [Seed Detection and Classification](https://github.com/smriti2805/seed/tree/recover-e5192e1)
+- A **machine learning–based system** that identifies and classifies seed types using image processing and convolutional neural networks (CNNs)
+- Developed with **TensorFlow/Keras**, with models exported to **TFLite** for mobile integration
+- Includes a Flutter-based mobile app named **SeedSight**, featuring:
+  - 📷 Real-time seed image capture and classification
+  - 🔐 User authentication via **Firebase**
+  - 📚 Educational content with “Learn More” links for each seed
+- Designed for **agricultural tech**, **educational tools**, and **quality control in seed packaging**
+
+### 2. 🎮 [Tic Tac Toe (React)](https://github.com/kishandev2509/tic_tac_toe)
 - A fully interactive **Tic Tac Toe game built using React.js**
 - Implements modular components for game board, tiles, and logic
 - Emphasizes **React state management**, conditional rendering, and component-based UI
 - Demonstrates understanding of modern frontend practices and JavaScript fundamentals
 
-### 2. 📚 [Library Management System](https://github.com/kishandev2509/LMS)
+### 3. 📚 [Library Management System](https://github.com/kishandev2509/LMS)
 - A complete **Library Management System** designed using modern web development tools
 - Facilitates operations like **book issue/return**, **user registration**, **fine calculation**, and **inventory tracking**
 - Likely built using a combination of **Java, JSP/Servlets**, and **MySQL** for data handling
 - Demonstrates backend integration, database management, and UI logic for **real-world library operations**
 
-### 3. **[Inventory Management System](https://github.com/kishandev2509/Inventory-Management-System)**
+### 4. **[Inventory Management System](https://github.com/kishandev2509/Inventory-Management-System)**
 - A full-featured system built for small to mid-sized stores
 - Supports **product**, **category**, and **supplier** management, as well as invoice generation
 - Developed in **Java/C++** (depending on repository) using a robust relational database (e.g. MySQL)
 - Highlights skills in **CRUD operations**, relational schema design, and command-line or GUI interfaces
 
-### 4. **[DAJarvis](https://github.com/kishandev2509/DAJarvis)**
+### 5. **[DAJarvis](https://github.com/kishandev2509/DAJarvis)**
 - An AI‑oriented personal assistant framework
 - Integrates modules such as speech recognition, scheduling, command parsing, and automation triggers
 - Built using **Python**, potentially using voice‑to‑text libraries, **NLP**, and system scripting
