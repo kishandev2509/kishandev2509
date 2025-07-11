@@ -57,7 +57,7 @@
 - **Business Logic & Data Handling** — Inventory System manages real-world stock and transaction flow  
 - **Assistant Automation** — DAJarvis offers real-time task execution and user-interaction pipelines  
 
----
+<!---
 
 
 ## 📈 GitHub Stats
@@ -67,13 +67,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top languages" />
 </p>
+-->
 
 ---
 
 ## 📫 Connect with Me
 
 - 📧 Email: [kishandevprajapati4@gmail.com](mailto:kishandevprajapati4@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/kishan-dev-2567852a8/)  
+- 🔗 LinkedIn: [Kishan Dev](https://linkedin.com/in/kishan-dev-2567852a8/)  
 
 ---
 
