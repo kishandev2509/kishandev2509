@@ -31,7 +31,7 @@
 ### 3. 📚 [Library Management System](https://github.com/kishandev2509/LMS)
 - A complete **Library Management System** designed using modern web development tools
 - Facilitates operations like **book issue/return**, **user registration**, **fine calculation**, and **inventory tracking**
-- Likely built using a combination of **Java, JSP/Servlets**, and **MySQL** for data handling
+- Likely built using a combination of **Python**,**TKinter**, and **MySQL** for data handling
 - Demonstrates backend integration, database management, and UI logic for **real-world library operations**
 
 ### 4. **[Inventory Management System](https://github.com/kishandev2509/Inventory-Management-System)**
