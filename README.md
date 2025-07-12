@@ -37,7 +37,7 @@
 ### 4. **[Inventory Management System](https://github.com/kishandev2509/Inventory-Management-System)**
 - A full-featured system built for small to mid-sized stores
 - Supports **product**, **category**, and **supplier** management, as well as invoice generation
-- Developed in **Java/C++** (depending on repository) using a robust relational database (e.g. MySQL)
+- Developed in **Python** using a robust relational database (e.g. MySQL)
 - Highlights skills in **CRUD operations**, relational schema design, and command-line or GUI interfaces
 
 ### 5. **[DAJarvis](https://github.com/kishandev2509/DAJarvis)**
