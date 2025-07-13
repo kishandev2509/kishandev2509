@@ -1,4 +1,4 @@
-# Hi there 👋, I'm KD
+# Hi there 👋, I'm Kishan
 
 **Computer Science Engineering Student** with a strong foundation in software development, AI, compiler design, and system architecture.
 
