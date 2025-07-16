@@ -64,9 +64,9 @@
 | Area               | Technologies & Tools              |
 | ------------------ | --------------------------------- |
 | Programming        | Python, C/C++, JavaScript         |
-| Mobile Development | Flutter, Android SDK (Java)       |
-| Web & Backend      | React.js, Flask, Node.js          |
-| Data & ML          | TensorFlow, TFLite, SQLite, MySQL |
+| Mobile Development | Flutter       |
+| Web & Backend      | React.js, Django          |
+| Data & ML          | SQLite, MySQL |
 | Tools & IDEs       | VS Code, Android Studio, Git      |
 
 ---
