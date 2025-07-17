@@ -83,9 +83,9 @@
 
 ## 📊 GitHub Stats
 
-![KD's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishandev2509\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishandev2509\&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kishandev2509\&theme=default)
+![KD's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishandev2509\&show_icons=true\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishandev2509\&layout=compact\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kishandev2509\&theme=dark)
 
 ---
 
