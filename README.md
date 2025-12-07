@@ -73,7 +73,7 @@
 ### 1. 🌾 [Seed Detection and Classification (SeedSight)](https://github.com/smriti2805/seed/tree/recover-e5192e1)
 
 * A **machine learning–based system** that identifies and classifies seed types using image processing and CNNs
-* Backend developed in **TensorFlow/Keras** with **TFLite** model integration for mobile
+* Backend developed in **TensorFlow/Keras**
 * **Flutter app (SeedSight)** includes:
 
   * 📷 Real-time seed image detection and result display
