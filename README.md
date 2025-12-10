@@ -58,7 +58,8 @@
   </tr>
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishandev2509&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="kishandev2509's GitHub Stats" />
+      <img  alt="kishandev2509's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kishandev2509?cardType=github&theme=tokyonight&preferLogin=false" />
+      <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishandev2509&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="kishandev2509's GitHub Stats" /> -->
     </td>
   </tr>
 </table>
